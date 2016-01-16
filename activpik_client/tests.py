@@ -1,5 +1,5 @@
 import unittest
-from client import Oauth2ClientCredentialsAuth, ActivpikClient
+from activpik_client import Oauth2ClientCredentialsAuth, ActivpikClient
 
 from mock import patch, Mock
 
